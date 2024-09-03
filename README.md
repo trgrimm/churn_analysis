@@ -1,2 +1,1 @@
-# churn_analysis
-Python code to analyze bank churn data from Kaggle.
+Run the code in `churn.ipynb` to produce [this blog post](https://trgrimm.github.io/posts/2024/09/churn_sklearn) about using `sklearn` in Python to perform supervised classification and evaluate the performance of various models on a bank churn dataset.
